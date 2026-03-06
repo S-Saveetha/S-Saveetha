@@ -71,9 +71,9 @@
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn:https://www.linkedin.com/in/saveetha-selvan-983408293/
+🔗 [LinkedIn](https://www.linkedin.com/in/saveetha-selvan-983408293/)
 
-💻 LeetCode:https://leetcode.com/u/Saveethaselvan/
+💻 [LeetCode](https://leetcode.com/u/Saveethaselvan/)
 
-📧 Email: ssaveetha47@gmail.com
+📧 [Email](ssaveetha47@gmail.com)
 

@@ -47,10 +47,10 @@
 
 ### Smart Workflow Performance Tool
 
-A **role-based enterprise task management platform** where managers assign tasks, employees submit work, and admins monitor overall system performance.
+* A **role-based enterprise task management platform** where managers assign tasks, employees submit work, and admins monitor overall system performance.
 
 **Tech Stack:**
-Spring Boot (Backend) | React (Frontend) | JWT Authentication | Performance Analytics Dashboard
+* Spring Boot (Backend) | React (Frontend) | JWT Authentication | Performance Analytics Dashboard
 
 ### Lung Cancer Classification Using Histopathological Images
 
@@ -58,7 +58,8 @@ Spring Boot (Backend) | React (Frontend) | JWT Authentication | Performance Anal
 * Extracted features using HOG and LBP techniques.
 * Compared multiple ML models to improve classification accuracy
 
-**Tech Stack: Python, NumPy**
+**Tech Stack:**
+* Python, OpenCV, scikit-learn, NumPy
 ---
 
 ## 🏆 Achievements

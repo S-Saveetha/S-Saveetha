@@ -67,5 +67,13 @@
 * 📄 Presented a research paper titled **“Hybrid Machine Learning Framework for Histopathological Lung Cancer Classification Using Optimized Feature Selection Techniques”** at **SSITCON-2025**.
 
 * 💡 Solved **300+ problems on LeetCode**, with strong focus on **SQL, Arrays, Strings, Joins, and problem-solving patterns**.
+---
 
+## 📫 Connect With Me
+
+🔗 LinkedIn:https://www.linkedin.com/in/saveetha-selvan-983408293/
+
+💻 LeetCode:https://leetcode.com/u/Saveethaselvan/
+
+📧 Email: ssaveetha47@gmail.com
 

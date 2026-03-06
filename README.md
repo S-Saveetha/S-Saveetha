@@ -1,16 +1,55 @@
-## Hi there 👋
+## Hi 👋 I'm Saveetha
 
-<!--
-**S-Saveetha/S-Saveetha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student
+💻 Full Stack Developer in Progress
+🚀 Passionate about building real-world applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🌱 Currently learning **Data Structures & Algorithms**
+* 💻 Building **Full Stack Applications**
+* 🧠 Exploring **System Design & Backend Development**
+* 🎯 Goal: Become a **skilled Software Engineer**
+
+---
+
+## 🧠 Skills
+
+### Programming Languages
+
+* Java
+* C
+* Python
+
+### Database
+
+* MySQL
+
+### Tools & Technologies
+
+* IntelliJ IDEA
+* VS Code
+* Git
+* Postman
+
+---
+
+## 📂 Projects
+
+### Smart Workflow Performance Tool
+
+A **role-based enterprise task management platform** where managers assign tasks, employees submit work, and admins monitor overall system performance.
+
+**Tech Stack:**
+Spring Boot (Backend) | React (Frontend) | JWT Authentication | Performance Analytics Dashboard
+
+---
+
+## 🔍 Areas of Interest
+
+* Backend Development
+* Full Stack Web Development
+* Problem Solving
+* Building Scalable Web Applications

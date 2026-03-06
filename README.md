@@ -35,7 +35,14 @@
 * Postman
 
 ---
+## 🔍 Areas of Interest
 
+* Backend Development
+* Full Stack Web Development
+* Problem Solving
+* Building Scalable Web Applications
+
+---
 ## 📂 Projects
 
 ### Smart Workflow Performance Tool
@@ -45,11 +52,19 @@ A **role-based enterprise task management platform** where managers assign tasks
 **Tech Stack:**
 Spring Boot (Backend) | React (Frontend) | JWT Authentication | Performance Analytics Dashboard
 
+### Lung Cancer Classification Using Histopathological Images
+
+* Developed a machine learning model to classify lung cancer images.
+* Extracted features using HOG and LBP techniques.
+* Compared multiple ML models to improve classification accuracy
+
+**Tech Stack: Python, NumPy**
 ---
 
-## 🔍 Areas of Interest
+## 🏆 Achievements
 
-* Backend Development
-* Full Stack Web Development
-* Problem Solving
-* Building Scalable Web Applications
+* 📄 Presented a research paper titled **“Hybrid Machine Learning Framework for Histopathological Lung Cancer Classification Using Optimized Feature Selection Techniques”** at **SSITCON-2025**.
+
+* 💡 Solved **300+ problems on LeetCode**, with strong focus on **SQL, Arrays, Strings, Joins, and problem-solving patterns**.
+
+
